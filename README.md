@@ -1,25 +1,5 @@
 ## Hi there 👋
 
-<!--
-**alecmstockman/alecmstockman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Alec, I am currently nearing completion of the Boot.dev backend engineering course for Python and TypeScript! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-Specific language skills
-Favorite projects you're building
-Open source contributions
-Technical blogs, videos, talks, or content you've created
-Awards or recognitions you've received
-Books you're reading
-Courses you're taking
-Links to other profiles (LinkedIn, Twitter, etc.)
-
+I've spend years in the corporate world but realized I was missing something and fell in love with programming last year. Since then I've spent every minute of available time completing courses on Boot.dev, studying AI, and building tons of projects. It's been a blast and wish I had started down this path sooner but it's never too late to learn something new. I'm looking for a new full time role, so if you know of any companies that need a skilled Go or Python engineer, [reach out](https://www.linkedin.com/in/alec-stockman/)!
