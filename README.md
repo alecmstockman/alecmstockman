@@ -11,6 +11,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Specific language skills
+Favorite projects you're building
+Open source contributions
+Technical blogs, videos, talks, or content you've created
+Awards or recognitions you've received
+Books you're reading
+Courses you're taking
+Links to other profiles (LinkedIn, Twitter, etc.)
+
