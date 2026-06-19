@@ -12,4 +12,3 @@ Currently in the top 2000 of 1.2 million Boot.dev students
   <img src="https://api.boot.dev/v1/users/public/b87df727-a200-42b3-837e-4bbf0dc92910/thumbnail" >
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alecmstockman)](https://github.com/alecmstockman/github-readme-stats)
